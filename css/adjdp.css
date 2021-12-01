@@ -1,0 +1,12 @@
+#carouselHomeIndicators .carousel-inner .carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 85vh;
+    overflow: hidden;
+}
+#zoneArticle .card .card-img-top {
+    object-fit: cover;
+    object-position: center;
+    height: 35vh;
+    overflow: hidden;
+}
