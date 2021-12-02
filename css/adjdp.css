@@ -1,9 +1,11 @@
+/* Permet aux images du carourel d'avoir la meme hauteur */
 #carouselHomeIndicators .carousel-inner .carousel-item img{
     object-fit: cover;
     object-position: center;
     height: 85vh;
     overflow: hidden;
 }
+/* Permet d'avoir la meme taille pour toutes les images top des cards de la zone article */
 #zoneArticle .card .card-img-top {
     object-fit: cover;
     object-position: center;
